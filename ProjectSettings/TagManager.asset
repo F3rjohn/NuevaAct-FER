@@ -2,20 +2,20 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!78 &1
 TagManager:
-  serializedVersion: 2
+  serializedVersion: 3
   tags: []
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - ParallaxManager
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
-  - 
+  - arbol1
+  - arbol2
+  - cielo
+  - fondo
+  - bosque
   - 
   - 
   - 
@@ -41,3 +41,20 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: arbol1
+    uniqueID: 3552811713
+    locked: 0
+  - name: arbol2
+    uniqueID: 3272595511
+    locked: 0
+  - name: cielo
+    uniqueID: 1125841529
+    locked: 0
+  - name: fondo
+    uniqueID: 3869680607
+    locked: 0
+  - name: bosque
+    uniqueID: 1752367891
+    locked: 0
+  m_RenderingLayers:
+  - Default
